@@ -6,7 +6,8 @@ This program constructs a grid (n x n) consisted of the Junctions and their Conn
 
 The user has the input of 2 main parameters during the operation of the program:
 * The number n, which is the number of the rows and columns of the grid
-* The percentage p, of the Connections which will be taken out of the grid. 
+* The percentage p, of the Connections which will be taken out of the grid.
+
 (The program also asks the user to give a Node limit for the search trees)
 
 The final grid is created. Two Junctions are randomly picked to be the Start and the Goal Junctions of the route. This program will try to find the optimal route from the Start to the Goal, using 3 search algorithms:
