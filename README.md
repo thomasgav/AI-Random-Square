@@ -13,4 +13,5 @@ The final grid is created. Two Junctions are randomly picked to be the Start and
 - UCS
 - IDS
 - A* search (the heuristic function used will be the Manhattan Distance).
+
 At the start, the program prints the Junctions and the Connections that exist in the grid. Then, for each algorithm, it shows the process made to reach the Goal. At the end it prints the final results, which are the final route, the cost of the route and the number of nodes created in the search tree. 
