@@ -4,6 +4,9 @@
 ## Description ##
 This program constructs a grid (n x n) consisted of the Junctions and their Connections. Then, it removes randomly a number of those Connections. Finally, it gives each Connection a cost price, which is a random number between 10 and 50.
 
+<img src="https://user-images.githubusercontent.com/59067103/165512473-8ee10d15-f5e5-4342-adf6-c9979a4e063c.png" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/59067103/165511791-46ed4324-3a92-4d5b-b2ed-b81f80dc726f.png" width="350" height="300">
+
 The user has the input of 2 main parameters during the operation of the program:
 * The number n, which is the number of the rows and columns of the grid
 * The percentage p, of the Connections which will be taken out of the grid.
